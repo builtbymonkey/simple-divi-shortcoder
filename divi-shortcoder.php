@@ -13,15 +13,15 @@
  * @package           Divi_Shortcoder
  *
  * @wordpress-plugin
- * Plugin Name:       Divi Module Shortcoder
- * Plugin URI:        https://github.com/robhob/divi-module-shortcoder
+ * Plugin Name:       Divi Shortcoder
+ * Plugin URI:        https://github.com/robhob/divi-shortcoder
  * Description:       The purpose of this plugin is to allow you to embed a Divi section or module within another. Simply build a module or section in the Divi Library and insert it using a shortcode with the following format: [showmodule id="894"] where the ID is the ID of the section/module in the library.
  * Version:           1.0.0
  * Author:            Rob Hobson
  * Author URI:        https://divinotes.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wp-dms
+ * Text Domain:       divi-shortcoder
  * Domain Path:       /languages
  */
 
