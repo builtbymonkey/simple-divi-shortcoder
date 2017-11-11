@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Divi Shortcoder
-Plugin URI:  https://divinotes.com
+Plugin URI:  https://github.com/robhob/divi-shortcoder/
 Description: The purpose of this plugin is to allow you to embed Divi sections or modules within other Divi modules or anything else that supports shortcodes.
 Version:     1.0
 Author:      Robert Hobson
